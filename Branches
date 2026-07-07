@@ -1,0 +1,17 @@
+main
+
+develop
+
+feature/authentication
+
+feature/booking
+
+feature/payments
+
+feature/provider
+
+feature/customer
+
+feature/admin
+
+feature/ai
