@@ -1,0 +1,17 @@
+backend/
+
+src/
+
+prisma/
+
+test/
+
+Dockerfile
+
+docker-compose.yml
+
+package.json
+
+README.md
+
+.env.example
